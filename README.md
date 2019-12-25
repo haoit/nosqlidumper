@@ -2,9 +2,11 @@
 Using this script, we can enumerate Usernames and passwords of Nosql(mongodb) injecion vulnerable web applications.
 <br /><br />
 Exploit Title: Nosql injection username/password enumeration.<br />
-Author: Kalana Sankalpa (Anon LK).<br />
-Website: https://blogofkalana.wordpress.com/2019/11/14/nosql-injection-username-and-password-enumeration/<br />
+This project fixed error and update from project of Kalana Sankalpa (Anon LK) in git url : https://github.com/an0nlk/Nosql-MongoDB-injection-username-password-enumeration
 
+# Change
+- Dump correct all entry in columns
+- Add multi threads to enumerate user and password
 ## How to run 
 
 ### Usage
