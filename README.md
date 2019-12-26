@@ -18,7 +18,7 @@ nosqli-user-pass-enum.py [-h] [-u URL] [-up parameter] [-pp parameter] [-op para
 ### Example
 
 ```
-python nosqli-user-pass-enum.py -u http://example.com/index.php -up username -pp password -ep username -op login:login,submit:submit
+python nosqli-user-pass-enum.py -u http://example.com/index.php -up username -pp password -ep username -op login:login,submit:submit -t 50
 ```
 
 ### Arguments
