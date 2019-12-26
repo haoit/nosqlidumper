@@ -12,7 +12,7 @@ This project fixed error and update from project of Kalana Sankalpa (Anon LK) in
 ### Usage
 
 ```
-nosqli-user-pass-enum.py [-h] [-u URL] [-up parameter] [-pp parameter] [-op parameters] [-ep parameter] [-sc character] [-m Method]
+nosqli-user-pass-enum.py [-h] [-u URL] [-up parameter] [-pp parameter] [-op parameters] [-ep parameter] [-sc character] [-m Method] [-t Threads]
 ```
 
 ### Example
